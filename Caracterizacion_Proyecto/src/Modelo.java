@@ -7,8 +7,14 @@ public class Modelo {
 		// TODO Auto-generated method stub
 		prueba2=0;
 
+	}
+	
+	public static void crearModelo() {
+		int m;
+		int n;
 
-
+	
+	
 	}
 
 }
